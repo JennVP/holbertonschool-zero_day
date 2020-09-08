@@ -1,0 +1,1 @@
+_This is a project about some of the basic EMACS commands, most of them are really helpful_
