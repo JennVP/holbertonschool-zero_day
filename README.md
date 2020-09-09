@@ -1,4 +1,1 @@
-_This is my first Holberton Project_
-
-
-__I'm really exited!__
+I'm now a Holberton Student, this is my first repository as a full-stack engineer
